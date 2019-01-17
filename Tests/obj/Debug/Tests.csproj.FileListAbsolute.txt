@@ -1,0 +1,11 @@
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\bin\Debug\Tests.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\bin\Debug\Tests.pdb
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\bin\Debug\DataLayer.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\bin\Debug\nunit.framework.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\bin\Debug\DataLayer.pdb
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\bin\Debug\nunit.framework.xml
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\obj\Debug\Tests.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\Tests\obj\Debug\Tests.pdb

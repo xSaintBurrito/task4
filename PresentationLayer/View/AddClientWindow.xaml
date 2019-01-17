@@ -1,0 +1,26 @@
+﻿<Window x:Class="PresentationLayer.AddClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer"
+        mc:Ignorable="d"
+    Title="Client Adder" MinHeight ="300" MinWidth="280" Height="300" Width="280">
+
+
+    <Border Padding="10" Background="SkyBlue">
+        <StackPanel>
+            <TextBlock Text="Adding new client" FontWeight="Bold" Margin="0 10" TextAlignment="Center"/>
+
+            <TextBlock Text="Name" TextAlignment="Center"/>
+            <TextBox x:Name="NameText" Padding="2" />
+            <TextBlock Text="Surname" Margin="0 10 0 0" TextAlignment="Center"/>
+            <TextBox x:Name="SurnameText" Padding="2" />
+            <TextBlock Text="Address"  Margin="0 10 0 0" TextAlignment="Center"/>
+            <TextBox x:Name="AddressText" Padding="2" />
+
+            <Button x:Name="AddUserButton" Click="AddUserButton_Click" Margin="30 20 30 10" Content="Add Client"/>
+            <Button x:Name="CloseButton" Click="CloseButton_Click" Margin="30 0 30 0" Content="Close"/>
+        </StackPanel>
+    </Border>
+</Window>

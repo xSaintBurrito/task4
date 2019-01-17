@@ -1,0 +1,9 @@
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\bin\Debug\DataLayer.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\bin\Debug\DataLayer.pdb
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\rozni\Downloads\task1-master3\task1-master\task1\LogicLayer\obj\Debug\LogicLayer.pdb
